@@ -1,4 +1,6 @@
-  <div>
+ /*
+ 
+ <div>
     <a href="https://www.linkedin.com/in/silvalucasf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:lsf.lucasilvaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
     <a href = "https://twitter.com/silva_lucasf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"</a>
@@ -29,6 +31,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvalucasf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvalucasf&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+*/
   
 
  
