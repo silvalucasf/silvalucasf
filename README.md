@@ -10,14 +10,9 @@
   </div>
 <h1>Hello there</h1
   <p> 
-  Meu nome é Lucas da Silva Ferreira, atualmente vivo no Brasil e faço faculdade de Jogos Digitais na UVA. Decidi seguir carreia nessa área em 2018 por ser apaixonado por jogos e tecnologia. Meu foco atualmente é o Unity mas eu sei um pouco de Unreal. Tenho conhecimento em C#, Javascript e Unity.
+
   </p>
 <h1>Detailed information</h1>
- - <b>Name:</b> Lucas da Silva Ferreira<br>
- - <b>Age:</b> 22<br>
- - <b>Living:</b> Rio de Janeiro. Brazil<br> 
- - <b>Stack:</b> C# - JS - Unity <br>
- - <b>University:</b> Atualmente cursando jogos digitais <br>
       
 <h1>Knowledge</h1>
 <div>
